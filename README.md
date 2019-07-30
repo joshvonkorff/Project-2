@@ -1,6 +1,6 @@
 # Project-2
 
-# Stock market and New York TImes project
+# Stock market and New York Times project
 
 The S & P 500 or "Standard and Poor's 500" is an index of 500 major stocks traded on the NYSE and NASDAQ stock exchanges.  For instance, the list includes Walmart, Apple, and Netflix.  This project is about analyzing the values of the stocks in the S & P 500 over the time period 1998-2013.  This time period has been selected because I was able to obtain free historical stock information for this periodfrom the QuantQuote website (quantquote.com).  
 
